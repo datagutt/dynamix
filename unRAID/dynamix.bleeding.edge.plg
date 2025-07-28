@@ -3,10 +3,10 @@
 <!DOCTYPE PLUGIN [
 <!ENTITY name      "dynamix.bleeding.edge">
 <!ENTITY author    "datagutt">
-<!ENTITY version   "2025.06.28v2">
+<!ENTITY version   "2025.06.28v3">
 <!ENTITY pluginURL "https://raw.githubusercontent.com/datagutt/dynamix/main/unRAID/&name;.plg">
 <!ENTITY source    "/boot/config/plugins/&name;/&name;">
-<!ENTITY MD5       "0b0ec8d54bebe0c88d5b607a54be744a">
+<!ENTITY MD5       "41a2fd85e3b37ec72bd317a6067774ad">
 ]>
 
 <PLUGIN name="&name;" author="&author;" version="&version;" pluginURL="&pluginURL;" min="7.1.4">
